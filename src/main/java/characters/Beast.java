@@ -6,7 +6,7 @@ import util.Util;
 
 public abstract class Beast extends Character {
 
-    private final int DICE_TIME = 1;
+    private final int DICE_TIME = 2;
     private static final String ORC = "Orc";
     private static String GOBLIN = "Goblin";
 
