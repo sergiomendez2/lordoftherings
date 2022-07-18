@@ -5,7 +5,7 @@ import util.Util;
 
 public class Turn {
 
-    private final int BATTALION_SIZE = 5;
+    private final int BATTALION_SIZE = 10;
     public void initBattalion() {
         Character[] heroesBattalion = new Character[BATTALION_SIZE];
         Character[] beastsBattalion = new Character[BATTALION_SIZE];
